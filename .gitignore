@@ -94,6 +94,9 @@ ENV/
 
 # mkdocs documentation
 /site
+#eclipse projects
+.project
+.pydevproject
 
 # mypy
 .mypy_cache/
